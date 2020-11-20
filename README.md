@@ -58,7 +58,7 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 #### Any other qualifications
 
 - Degree-level French and conversational Spanish.
-- Excellent written English
+- Excellent written English.
 
 ## Hobbies
 
