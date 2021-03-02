@@ -24,7 +24,7 @@ _Public Fundraising Assistant_
 **Unicef UK** (2014 to 2015)  
 _Public Fundraising Intern_
 
-- A 6-month internship making use of, and improving, my skills in customer care, project management and office-based teamwork at one of the world’s most respected NGOs.
+- A 6-month internship role making use of, and improving, my skills in customer care, project management and office-based teamwork at one of the world’s most respected NGOs.
 
 ## Skills
 
@@ -34,7 +34,7 @@ Working as a talent booker and event producer is a continuous cycle of going fro
 
 #### Teamwork
 
-I like people. I like working with people. I'm comfortable listening and supporting, or presenting and leading; I'm genuinely empathetic and great at understanding where other people are coming from on an issue. Spending years being the go-between between financial stakeholders and artist agents makes this an absolute requirement - you are pitcher, negotiator and mediator rolled into one. 
+I like people and I like working with people. I'm comfortable listening and supporting, or presenting and leading; I'm genuinely empathetic and great at understanding where other people are coming from on an issue. Spending years being the go-between between financial stakeholders and artist agents makes this an absolute requirement - you are pitcher, negotiator and mediator rolled into one. 
 
 #### Quality Control & Initiative
 
@@ -42,7 +42,7 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2020 to February 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
