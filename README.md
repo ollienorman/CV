@@ -1,12 +1,12 @@
 ## Ollie Norman
 
-I am an intelligent, friendly, enthusiastic and fast-learning professional with excellent interpersonal and literacy skills. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same.
+I am an intelligent, friendly, enthusiastic and fast-learning professional with excellent interpersonal and literacy skills. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **[Looking Glass](https://github.com/chrismabdo/looking_glass_final_project)** | A webapp to track your films recommendations and watchlists. Made in 9 days as part of Makers Academy.| Ruby on Rails, React |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
@@ -46,7 +46,7 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React, SQL
 - RSpec, Jasmine
 
 #### University of Exeter (2010 to 2014)
@@ -57,6 +57,8 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 
 #### Any other qualifications
 
+- DataCamp courses completed in Python: Introduction to Python, Intermediate Python, Introduction to Data Science in Python, Data Manipulation with pandas, Joining Data with pandas
+- DataCamp courses completed in SQL: Introduction to SQL, Joining Data in SQL, Intermediate SQL, PostgreSQL Summary Stats and Window Functions
 - Degree-level French and conversational Spanish.
 - Excellent written English.
 
