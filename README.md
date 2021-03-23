@@ -1,13 +1,13 @@
 ## Ollie Norman
 
-I am an intelligent, friendly, enthusiastic and fast-learning professional with excellent interpersonal and literacy skills. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies.
+I am an intelligent, friendly, enthusiastic and fast-learning developer with excellent interpersonal and literacy skills. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Looking Glass](https://github.com/chrismabdo/looking_glass_final_project)** | A webapp to track your films recommendations and watchlists. Made in 9 days as part of Makers Academy.| Ruby on Rails, React |
-| **[Bank (Tech Test)](https://github.com/ollienorman/bank-tech-test)** | An example tech test displaying best programming practices to meet a strict specification. | Pure Ruby |
+| **[Bank (Tech Test)](https://github.com/ollienorman/bank-tech-test)** | An example tech test displaying best programming practices to meet a strict specification. | Ruby |
 
 ## Experience
 
@@ -45,7 +45,7 @@ I like people and I like working with people. I'm comfortable listening and supp
 
 #### Quality Control & Initiative
 
-It nags at me if I feel like there's a smarter, more efficient way of doing something - and I'll want to find out how to do something about it. At Unicef UK I was hired into a salary role halfway through my internship primarily because I spotted inefficiencies in the existing donor pipeline and management system, researched the programs and systems used, and pitched to the department manager to let me work on a new process - which I developed and was implemented.
+It nags at me if I feel like there's a smarter, more efficient way of doing something - and I'll want to find out how to do something about it. At Unicef UK I was hired into a salary role halfway through my internship primarily because I spotted inefficiencies in the existing donor pipeline and management system, researched the programs and systems used, and pitched to the department manager to let me work on a new process - which I developed and implemented.
 
 ## Education
 
