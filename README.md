@@ -11,14 +11,14 @@ I am an intelligent, friendly, enthusiastic and fast-learning developer with exc
 
 ## Experience
 
-**Various** (2015 to 2020)  
+**Various** (2015 to present)  
 _Freelance Booker & Events Producer_
 
 - The _other_ kind of programming, working on both one-off contracts and annual repeat clients. 
 - With my project management skills, creative planning and curational eye, I have booked and programmed a huge variety of music lineups for events across Europe, including festivals such as Boardmasters, Snowboxx, NASS and Kala, with millions of pounds of talent booked over the years. 
 - Extremely high levels of attention to detail and time management were required to successfully manage many projects with many stakeholders simultaneously.
 - The many stakeholders, combined with often continually shifting requirements - and the added challenge of artists being part of this mixture - demanded excellent emotional intelligence and communication skills when feeding back and making sure all parties' needs were met.
-- Clients have been broad, and I have gained experience in small, start-up environments as well as at established multi-national event portfolios. 
+- Clients have been broad, and I have gained experience in small start-up environments as well as at established multi-national event portfolios. 
 - My work ethic, ability to work effectively in a team, organisational skills and desire to see a project through to fruition were particularly brought to the fore when creating Kala Festival in Albania - we had 6 months to create, sell and produce a festival from scratch, in a country that had never hosted an international music festival before. To my great pride, it has now sold out every year since.
 
 **Unicef UK** (2015 to 2015)  
