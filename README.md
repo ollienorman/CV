@@ -7,19 +7,26 @@ I am an intelligent, friendly, enthusiastic and fast-learning professional with 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Looking Glass](https://github.com/chrismabdo/looking_glass_final_project)** | A webapp to track your films recommendations and watchlists. Made in 9 days as part of Makers Academy.| Ruby on Rails, React |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Bank (Tech Test)](https://github.com/ollienorman/bank-tech-test)** | An example tech test displaying best programming practices to meet a strict specification. | Pure Ruby |
 
 ## Experience
 
 **Various** (2015 to 2020)  
 _Freelance Booker & Events Producer_
 
-- The _other_ kind of programming, working on both one-off contracts and yearly repeat clients. With my project management skills, creative planning and curational eye, I have booked and programmed a huge variety of music lineups for events across Europe, including festivals such as Boardmasters, Snowboxx, NASS and Kala, with millions of pounds of talent booked over the years. For every event my role has covered the delivery of the talent booking process from start to finish, including planning initial concepts with company directors, negotiating with agents, programming event days and set times, full artist paperwork & logistics, and on-site artist experience. Clients have been broad, and I have gained experience in small, start-up environments as well as at established multi-national event portfolios. My work on Kala, in particular, has been a formative experience - my concept of 'crunch' was redefined when we had 6 months to create, sell and produce a festival. From scratch. In a country that had never hosted an international music festival before. It has now sold out every year since.
+- The _other_ kind of programming, working on both one-off contracts and annual repeat clients. 
+- With my project management skills, creative planning and curational eye, I have booked and programmed a huge variety of music lineups for events across Europe, including festivals such as Boardmasters, Snowboxx, NASS and Kala, with millions of pounds of talent booked over the years. 
+- Extremely high levels of attention to detail and time management were required to successfully manage many projects with many stakeholders simultaneously.
+- The many stakeholders, combined with often continually shifting requirements - and the added challenge of artists being part of this mixture - demanded excellent emotional intelligence and communication skills when feeding back and making sure all parties' needs were met.
+- Clients have been broad, and I have gained experience in small, start-up environments as well as at established multi-national event portfolios. 
+- My work ethic, ability to work effectively in a team, organisational skills and desire to see a project through to fruition were particularly brought to the fore when creating Kala Festival in Albania - we had 6 months to create, sell and produce a festival from scratch, in a country that had never hosted an international music festival before. To my great pride, it has now sold out every year since.
 
 **Unicef UK** (2015 to 2015)  
 _Public Fundraising Assistant_
 
-- 3 months into my 6-month internship, I was offered a salaried position. I was responsible for donor communications (across all streams of mass mailouts, individual care and social media campaigns) and entrusted with improving and streamlining internal team processes - in particular, automating systems using the very, very old and creaky CRM.
+- 3 months into my 6-month internship, I was offered a salaried position. 
+- I was made responsible for donor communications (across all streams of mass mailouts, individual care and social media campaigns), where I was able to utilise my understanding of a client's or customer's needs and knack for writing engaging copy.
+- After spotting major areas for improvement, I pitched my ideas to update the existing system and was subsequently entrusted with improving and streamlining internal team processes - in particular, automating donor pipelines using the very, very old and creaky CRM.
 
 **Unicef UK** (2014 to 2015)  
 _Public Fundraising Intern_
