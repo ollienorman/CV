@@ -49,12 +49,15 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 
 ## Education
 
-#### Makers Academy (November 2020 to February 2021)
+#### Makers Academy (October 2020 to February 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React, SQL
-- RSpec, Jasmine
+A selective and intensive coding bootcamp, designed to produce language-agnostic developers with an extremely strong foundation in software development and the tools to continue learning quickly and effectively for the rest of their development career.
+
+- OOP, TDD (a particular focus of the course), MVC, DDD
+- Agile/XP - running our own standups and retros in regularly-changing student groups. Delivering projects from MVP to final product with client feedback.
+- 'Learning to learn' - a focus on learning new concepts and technologies 'on the job', I was proud at how quickly I grasped and overcame new and complex challenges.
+- Languages and frameworks: Ruby, Rails, JavaScript, React, jQuery, SQL, Sinatra
+- Testing frameworks: RSpec, Jasmine
 
 #### University of Exeter (2010 to 2014)
 
