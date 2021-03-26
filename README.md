@@ -1,6 +1,6 @@
 ## Ollie Norman
 
-I am an intelligent, friendly, enthusiastic and fast-learning developer with excellent interpersonal and literacy skills. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies.
+I am an intelligent, friendly, enthusiastic and fast-learning developer with excellent interpersonal and literacy skills who cares deeply about the impact his work has on the world. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies.
 
 ## Projects
 
