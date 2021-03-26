@@ -1,12 +1,12 @@
 ## Ollie Norman
 
-I am an intelligent, friendly, enthusiastic and fast-learning developer with excellent interpersonal and literacy skills who cares deeply about the impact his work has on the world. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies.
+I am an intelligent, friendly, enthusiastic and fast-learning developer with excellent interpersonal and literacy skills who cares deeply about the impact his work has on the world. I truly love to see projects go from nothing to something real and tangible; to start with a problem and finish with a solution. In my past life that might have meant starting with "that looks like a nice beach..." and ending with a fully-fledged international festival that sells out every year; in my current life that means starting with "what do we want this program to do?" and ending with clean, tested and reliable code. The context has changed - the buzz and satisfaction remains the same. I have hands-on experience with Ruby, JavaScript, Python, SQL, HTML, CSS, Rails, React and Agile methodologies, and am relishing continuing to add to my skillset throughout the rest of my career.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Looking Glass](https://github.com/chrismabdo/looking_glass_final_project)** | A webapp to track your films recommendations and watchlists. Made in 9 days as part of Makers Academy.| Ruby on Rails, React |
+| **[Looking Glass](https://github.com/chrismabdo/looking_glass_final_project)** | A webapp to track your films recommendations and watchlists. Made in 9 days as part of Makers Academy while learning React for the first time.| Ruby on Rails, React |
 | **[Bank (Tech Test)](https://github.com/ollienorman/bank-tech-test)** | An example tech test displaying best programming practices to meet a strict specification. | Ruby |
 
 ## Experience
@@ -53,9 +53,10 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 
 A selective and intensive coding bootcamp, designed to produce language-agnostic developers with an extremely strong foundation in software development and the tools to continue learning quickly and effectively for the rest of their development career.
 
-- OOP, TDD (a particular focus of the course), MVC, DDD
+- OOP, TDD (a particular focus of the course), MVC, DDD, SOLID
 - Agile/XP - running our own standups and retros in regularly-changing student groups. Delivering projects from MVP to final product with client feedback.
 - 'Learning to learn' - a focus on learning new concepts and technologies 'on the job', I was proud at how quickly I grasped and overcame new and complex challenges.
+- Pair Programming - a majority of the course was undertaken while pairing, using pairing's excellent potential for learning, mentoring, and writing quality code.
 - Languages and frameworks: Ruby, Rails, JavaScript, React, jQuery, SQL, Sinatra, Capybara
 - Testing frameworks: RSpec, Jasmine
 
