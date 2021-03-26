@@ -56,7 +56,7 @@ A selective and intensive coding bootcamp, designed to produce language-agnostic
 - OOP, TDD (a particular focus of the course), MVC, DDD
 - Agile/XP - running our own standups and retros in regularly-changing student groups. Delivering projects from MVP to final product with client feedback.
 - 'Learning to learn' - a focus on learning new concepts and technologies 'on the job', I was proud at how quickly I grasped and overcame new and complex challenges.
-- Languages and frameworks: Ruby, Rails, JavaScript, React, jQuery, SQL, Sinatra
+- Languages and frameworks: Ruby, Rails, JavaScript, React, jQuery, SQL, Sinatra, Capybara
 - Testing frameworks: RSpec, Jasmine
 
 #### University of Exeter (2010 to 2014)
