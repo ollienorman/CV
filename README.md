@@ -11,8 +11,7 @@ I am an intelligent, friendly, enthusiastic and fast-learning developer with exc
 
 ## Experience
 
-**Makers Academy** (October 2020 to February 2021)
-
+**Makers Academy** (October 2020 to February 2021)  
 _Software Development Student_
 
 A selective and intensive academy, designed to produce language-agnostic developers with an extremely strong foundation in software development and the tools to continue learning quickly and effectively for the rest of their development career.
