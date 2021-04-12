@@ -11,6 +11,18 @@ I am an intelligent, friendly, enthusiastic and fast-learning developer with exc
 
 ## Experience
 
+**Makers Academy** (October 2020 to February 2021)
+_Software Development Student_
+
+A selective and intensive academy, designed to produce language-agnostic developers with an extremely strong foundation in software development and the tools to continue learning quickly and effectively for the rest of their development career.
+
+- Design principles - OOP, TDD (a particular focus of the course), MVC, DDD, SOLID
+- Agile/XP - running our own standups and retros in regularly-changing student groups. Delivering projects from MVP to final product with client feedback.
+- 'Learning to learn' - a focus on learning new concepts and technologies 'on the job', I was proud at how quickly I grasped and overcame new and complex challenges.
+- Pair Programming - a majority of the course was undertaken while pairing, using pairing's excellent potential for learning, mentoring, and writing quality code.
+- Languages and frameworks: Ruby, Rails, JavaScript, React, jQuery, SQL, Sinatra, Capybara
+- Testing frameworks: RSpec, Jasmine
+
 **Various** (2015 to present)  
 _Freelance Booker & Events Producer_
 
@@ -48,17 +60,6 @@ I like people and I like working with people. I'm comfortable listening and supp
 It nags at me if I feel like there's a smarter, more efficient way of doing something - and I'll want to find out how to do something about it. At Unicef UK I was hired into a salary role halfway through my internship primarily because I spotted inefficiencies in the existing donor pipeline and management system, researched the programs and systems used, and pitched to the department manager to let me work on a new process - which I developed and implemented.
 
 ## Education
-
-#### Makers Academy (October 2020 to February 2021)
-
-A selective and intensive coding bootcamp, designed to produce language-agnostic developers with an extremely strong foundation in software development and the tools to continue learning quickly and effectively for the rest of their development career.
-
-- OOP, TDD (a particular focus of the course), MVC, DDD, SOLID
-- Agile/XP - running our own standups and retros in regularly-changing student groups. Delivering projects from MVP to final product with client feedback.
-- 'Learning to learn' - a focus on learning new concepts and technologies 'on the job', I was proud at how quickly I grasped and overcame new and complex challenges.
-- Pair Programming - a majority of the course was undertaken while pairing, using pairing's excellent potential for learning, mentoring, and writing quality code.
-- Languages and frameworks: Ruby, Rails, JavaScript, React, jQuery, SQL, Sinatra, Capybara
-- Testing frameworks: RSpec, Jasmine
 
 #### University of Exeter (2010 to 2014)
 
