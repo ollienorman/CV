@@ -34,14 +34,14 @@ _Freelance Booker & Events Producer_
 - My work ethic, ability to work effectively in a team, organisational skills and desire to see a project through to fruition were particularly brought to the fore when creating Kala Festival in Albania - we had 6 months to create, sell and produce a festival from scratch, in a country that had never hosted an international music festival before. To my great pride, it has now sold out every year since.
 
 **Unicef UK** (2015 to 2015)  
-_Public Fundraising Assistant_
+_Public Fundraising Team Assistant_
 
 - 3 months into my 6-month internship, I was offered a salaried position. 
 - I was made responsible for donor communications (across all streams of mass mailouts, individual care and social media campaigns), where I was able to utilise my understanding of a client's or customer's needs and knack for writing engaging copy.
 - After spotting major areas for improvement, I pitched my ideas to update the existing system and was subsequently entrusted with improving and streamlining internal team processes - in particular, automating donor pipelines using the very, very old and creaky CRM.
 
 **Unicef UK** (2014 to 2015)  
-_Public Fundraising Intern_
+_Public Fundraising Team Intern_
 
 - A 6-month internship role making use of, and improving, my skills in customer care, project management and office-based teamwork at one of the world’s most respected NGOs.
 
