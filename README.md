@@ -69,6 +69,7 @@ It nags at me if I feel like there's a smarter, more efficient way of doing some
 
 #### Any other qualifications
 
+- Wes Bos courses completed: React for Beginners, Beginner JavaScript
 - DataCamp courses completed in Python: Introduction to Python, Intermediate Python, Introduction to Data Science in Python, Data Manipulation with pandas, Joining Data with pandas
 - DataCamp courses completed in SQL: Introduction to SQL, Joining Data in SQL, Intermediate SQL, PostgreSQL Summary Stats and Window Functions
 - Degree-level French and conversational Spanish.
