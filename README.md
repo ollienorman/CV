@@ -8,6 +8,8 @@ I am an intelligent, friendly, enthusiastic and fast-learning developer with exc
 | ---------------------------- | ----------------- | ----------------- |
 | **[Looking Glass](https://github.com/chrismabdo/looking_glass_final_project)** | A webapp to track your films recommendations and watchlists. Made in 9 days as part of Makers Academy while learning React for the first time.| Ruby on Rails, React |
 | **[Bank (Tech Test)](https://github.com/ollienorman/bank-tech-test)** | An example tech test displaying best programming practices to meet a strict specification. | Ruby |
+| **[Catch Of The Day](https://github.com/ollienorman/catch-of-the-day)** | A simple React storefront app made while consolidating my React knowledge with online courses. | React |
+
 
 ## Experience
 
